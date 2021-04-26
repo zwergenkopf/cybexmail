@@ -1,0 +1,33 @@
+.b-button {
+    align-items: center;
+    cursor: pointer;
+    display: inline-flex;
+    height: 46px;
+    justify-content: center;
+    max-width: 100%;
+    -webkit-user-select: none;
+    user-select: none;
+    vertical-align: top;
+    font-size: 1rem;
+    font-family: nimbus sans,helvetica neue,helvetica,arial,liberation sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: normal;
+    background: #000;
+    border: 1px solid #000;
+    border-radius: 4px;
+    color: #fff;
+    padding: 0 1.75rem
+}
+html {
+    background: #fff;
+    color: #000;
+    direction: ltr;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+#556972;
